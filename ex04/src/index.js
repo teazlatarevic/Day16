@@ -22,7 +22,7 @@ class Dog extends Pets {
 
 // Only change code above this line
 
-let dog = new Dog("Pujdo", 4); // Change this line
+const dog = new Dog("Pujdo", 4); // Change this line
 console.log(dog.walk());
 console.log(dog.bark());
 
