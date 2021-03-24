@@ -56,12 +56,13 @@ ul {
 }
 
  #introduction code {
-    max-width: 26ch;
-    display: inline-block;
+    display: block-block;
     background-color: #E8E8E8;
+    padding: 30px;
 }
 
 code {
-    display: inline-block;
+    display: block;
     background-color: #E8E8E8;
+    padding: 25px;
 }
